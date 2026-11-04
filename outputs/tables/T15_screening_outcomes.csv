@@ -1,0 +1,17 @@
+﻿ID,Call,Visit,Fit,Average,Rank,Reviewer,Comment,reviewer_name,visit_numeric,visit_note,call_numeric,fit_numeric,score_average,First name,Last name,response_status_canon,response_status_label,is_test,final_status_canon,final_status_label,name,conflict
+1001,4,4,5,,,MT,recommended by a volunteer,Megan Tate,4.0,,4,5,4.333333333333333,Lucy,Fisher,approved_reserved,Approved — reserved,False,approved,Approved,Lucy Fisher,False
+1002,4,4,4,,,GC,check working hours,Graham Cole,4.0,,4,4,4.0,Chloe,Ryan,approved_reserved,Approved — reserved,False,approved,Approved,Chloe Ryan,False
+1004,3,4,3,,,GC,,Graham Cole,4.0,,3,3,3.3333333333333335,Claire,Harrison,approved,Approved,False,approved,Approved,Claire Harrison,False
+1005,3,3,3,,,GC,landlord unsure,Graham Cole,3.0,,3,3,3.0,Hannah,Rowe,waitlist,Waitlist,False,approved,Approved,Hannah Rowe,True
+1007,4,3,3,,,GC,,Graham Cole,3.0,,4,3,3.3333333333333335,Joe,Morgan,approved,Approved,False,approved,Approved,Joe Morgan,False
+1008,4,3,4,,,MT,,Megan Tate,3.0,,4,4,3.6666666666666665,Gemma,Price,approved,Approved,False,approved,Approved,Gemma Price,False
+1009,5,3,5,,,GC,great home visit,Graham Cole,3.0,,5,5,4.333333333333333,Julia,Kemp,approved,Approved,False,,Not in final,Julia Kemp,False
+1010,2,3,4,,,JP,,Jas Patel,3.0,,2,4,3.0,Hannah,Reid,reuse,Reuse,False,approved,Approved,Hannah Reid,True
+1013,2,3,3,,,JP,,Jas Patel,3.0,,2,3,2.6666666666666665,Isla,Carter,waitlist,Waitlist,False,approved,Approved,Isla Carter,True
+1014,2,3,3,,,MT,,Megan Tate,3.0,,2,3,2.6666666666666665,Danielle,Hill,list_b,List B,False,,Not in final,Danielle Hill,False
+1015,5,4,5,,,MT,great home visit,Megan Tate,4.0,,5,5,4.666666666666667,Danielle,Hughes,approved,Approved,False,approved,Approved,Danielle Hughes,False
+1019,2,1,2,,,MT,great home visit,Megan Tate,1.0,,2,2,1.6666666666666667,Claire,Harrison,rejected,Rejected,False,,Not in final,Claire Harrison,False
+1020,4,"good but no garden, 3?",3,,,MT,,Megan Tate,3.0,"good but no garden, 3?",4,3,3.3333333333333335,Beth,Morgan,list_b,List B,False,,Not in final,Beth Morgan,False
+1022,4,4,5,,,JP,,Jas Patel,4.0,,4,5,4.333333333333333,Tom,Iqbal,approved,Approved,False,waitlist,Waitlist,Tom Iqbal,True
+1023,5,5,3,,,JP,landlord unsure,Jas Patel,5.0,,5,3,4.333333333333333,Mark,Shaw,approved,Approved,False,,Not in final,Mark Shaw,False
+1024,4,3,4,,,GC,small flat for a big dog,Graham Cole,3.0,,4,4,3.6666666666666665,Rob,Ellis,approved,Approved,False,waitlist,Waitlist,Rob Ellis,True

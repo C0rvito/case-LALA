@@ -1,0 +1,27 @@
+﻿metric,value,unit,definition
+response_rows,26,rows,"All rows, including tests."
+test_rows,2,rows,IDs 1000 and 1017.
+real_applications,24,applications,Excludes test rows.
+unique_people,23,people,Person clusters; 1016 and 1023 are the same Mark Shaw.
+duplicate_applications,1,applications,Real applications minus unique people.
+with_status,23,applications,1027 has no status.
+with_scoring,16,applications,Scoring sheet.
+in_final,13,applications,final sheet; includes 1012.
+approved_in_final,11,applications,Status Approved.
+waitlist_in_final,2,applications,Status Waitlist.
+status_conflicts,6,applications,"Responses vs final, raw differences."
+status_progressions,4,applications,Waitlist/Reuse/Visit → Approved.
+status_reversals,2,applications,Approved → Waitlist.
+followup_rows,16,rows,Follow-up list.
+followup_adopters,14,adopters,Abbreviated name.
+followup_animals,15,codes,"DOG-0424 is a fallback reservation, not a duplicate."
+followup_episodes,15,episodes,Rows minus the intermediate swap row.
+followup_without_record,9,rows,No 1m/6m.
+returns,2,rows,Returned + Returned (trial).
+phone_exact,2,adopters,Exact phone after normalisation.
+name_candidates,11,adopters,Name + initial.
+linkage_resolved,10,adopters,"Deterministic exact phone, status, duplicate or household-pet rule."
+no_candidate,3,adopters,No name/phone candidate.
+ambiguous,1,adopters,More than one identity candidate; no deterministic tie-break.
+dob_mismatch,10,records,dob_clean differs from dd/mm/yyyy parsing.
+dob_validated_by_duplicate,1,records,1016's dob_clean is confirmed by 1023's ISO date.

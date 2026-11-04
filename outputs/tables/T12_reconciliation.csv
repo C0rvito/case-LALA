@@ -1,0 +1,28 @@
+﻿ID,name,person_key,person_ids,duplicate_of,in_responses,response_status,response_status_label,in_scoring,call,visit,fit,reviewer,in_final,final_status,final_status_label,email_sent,only_in,status_conflict,status_conflict_type,conflict_note,followup_candidates
+1000,Test Form,,,,True,unknown,Unknown,False,,,,,False,,,,Responses,False,,,
+1001,Lucy Fisher,id:FISHE960160LD9JJ,1001,,True,approved_reserved,Approved — reserved,True,4.0,4.0,5.0,Megan Tate,True,approved,Approved,Yes,,False,label variation,"different label, same family",Lucy F. (medium)
+1002,Chloe Ryan,id:RYAN9959221CJ9DC,1002,,True,approved_reserved,Approved — reserved,True,4.0,4.0,4.0,Graham Cole,True,approved,Approved,Yes,,False,label variation,"different label, same family",Chloe R. (medium)
+1003,Sam Ahmed,id:839348054,1003,,True,rejected,Rejected,False,,,,,False,,,,Responses,False,,,
+1004,Claire Harrison,id:318614314,1004,,True,approved,Approved,True,3.0,4.0,3.0,Graham Cole,True,approved,Approved,Unknown,,False,,,Claire H. (medium)
+1005,Hannah Rowe,id:437395685,1005,,True,waitlist,Waitlist,True,3.0,3.0,3.0,Graham Cole,True,approved,Approved,Yes,,True,progression,Waitlist → Approved,Hannah R. (medium)
+1007,Joe Morgan,id:704715389,1007,,True,approved,Approved,True,4.0,3.0,3.0,Graham Cole,True,approved,Approved,Yes,,False,,,Joe M. (strong)
+1008,Gemma Price,id:234760579,1008,,True,approved,Approved,True,4.0,3.0,4.0,Megan Tate,True,approved,Approved,No,,False,,,
+1009,Julia Kemp,id:307024790,1009,,True,approved,Approved,True,5.0,3.0,5.0,Graham Cole,False,,,,Responses (no final),False,,,
+1010,Hannah Reid,id:HW25-212,1010,,True,reuse,Reuse,True,2.0,3.0,4.0,Jas Patel,True,approved,Approved,Unknown,,True,progression,Reuse → Approved,
+1011,Mark Singh,row:1011,1011,,True,rejected,Rejected,False,,,,,False,,,,Responses,False,,,
+1012,Sophie Webb,,,,False,,,False,,,,,True,approved,Approved,Yes,final,False,,,
+1013,Isla Carter,id:635384256,1013,,True,waitlist,Waitlist,True,2.0,3.0,3.0,Jas Patel,True,approved,Approved,Yes,,True,progression,Waitlist → Approved,Isla C. (strong)
+1014,Danielle Hill,id:286204165,1014,,True,list_b,List B,True,2.0,3.0,3.0,Megan Tate,False,,,,Responses (no final),False,,,
+1015,Danielle Hughes,id:911676337,1015,,True,approved,Approved,True,5.0,4.0,5.0,Megan Tate,True,approved,Approved,Unknown,,False,,,Danielle H. (medium)
+1016,Mark Shaw,id:060064440,"1016, 1023",,True,visit,Visit,False,,,,,True,approved,Approved,Yes,,True,progression,Visit → Approved,Mark S. (medium)
+1017,test test,,,,True,unknown,Unknown,False,,,,,False,,,,Responses,False,,,
+1018,Ben Murray,id:HW24-0381,1018,,True,waitlist,Waitlist,False,,,,,False,,,,Responses,False,,,
+1019,Claire Harrison,id:HARRI751282CD9GK,1019,,True,rejected,Rejected,True,2.0,1.0,2.0,Megan Tate,False,,,,Responses (no final),False,,,
+1020,Beth Morgan,id:638035309,1020,,True,list_b,List B,True,4.0,3.0,3.0,Megan Tate,False,,,,Responses (no final),False,,,
+1021,Owen Pollard,id:81430756,1021,,True,waitlist,Waitlist,False,,,,,False,,,,Responses,False,,,
+1022,Tom Iqbal,id:751913338,1022,,True,approved,Approved,True,4.0,4.0,5.0,Jas Patel,True,waitlist,Waitlist,No,,True,reversal,Approved → Waitlist,Tom I. (medium)
+1023,Mark Shaw,id:060064440,"1016, 1023",1016,True,approved,Approved,True,5.0,5.0,3.0,Jas Patel,False,,,,Responses (no final),False,,,
+1024,Rob Ellis,id:972078313,1024,,True,approved,Approved,True,4.0,3.0,4.0,Graham Cole,True,waitlist,Waitlist,No,,True,reversal,Approved → Waitlist,
+1025,Harry Ashworth,id:273658174,1025,,True,waitlist,Waitlist,False,,,,,False,,,,Responses,False,,,Harry A. (weak)
+1026,Lucy Ford,id:225030057,1026,,True,list_b,List B,False,,,,,False,,,,Responses,False,,,
+1027,Sam Allen,name:sam allen|phone:07431524818|dob:1991-01-03,1027,,True,unknown,Unknown,False,,,,,False,,,,Responses,False,,,

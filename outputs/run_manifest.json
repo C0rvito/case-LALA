@@ -1,0 +1,128 @@
+{
+  "project": "Hearthway Rehoming Network — Spring 2026 EDA",
+  "command": "uv run python -m data",
+  "python": "3.13.16",
+  "packages": {
+    "pandas": "3.1.0",
+    "openpyxl": "3.1.5",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2"
+  },
+  "source_sha256": {
+    "workbook": "827195f64ef2aa6e9bfb878781dd5f0430165b3ac64cb71178e12b38a72a6069",
+    "followup": "ce981dbc80884d10b33ae2acd7da925aab7a5d689d98e7832c547f33c4f7e287"
+  },
+  "counts": {
+    "responses": 26,
+    "scoring": 16,
+    "final": 13,
+    "followup": 16,
+    "real_applications": 24
+  },
+  "tables": {
+    "T01_inventory": 6,
+    "T02_column_profile": 55,
+    "T03_missingness": 30,
+    "T04_value_variants": 158,
+    "T05_duplicates": 14,
+    "T06_formula_audit": 88,
+    "T07_formula_summary": 4,
+    "T08_dob_audit": 26,
+    "T09_updated_audit": 16,
+    "T10_candidate_pairs": 36,
+    "T11_adopter_links": 14,
+    "T12_reconciliation": 27,
+    "T13_animal_identity": 15,
+    "T14_issue_register": 19,
+    "T15_screening_outcomes": 16,
+    "T16_followup_summary": 7,
+    "T17_kpis": 26,
+    "T18_summary_reconciliation": 9,
+    "T19_status_crosswalk": 22,
+    "T20_stage_coverage": 6,
+    "T21_format_counts": 17,
+    "T22_time_series": 5,
+    "T23_status_variants": 13,
+    "T24_evidence_summary": 14,
+    "T25_animal_matches": 18,
+    "T26_screening_by_outcome": 3,
+    "T27_figure_qa": 12
+  },
+  "figures": [
+    {
+      "figure_id": "F01",
+      "path": "figures/estrutural/estrutural_01_completude_campos.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F02",
+      "path": "figures/estrutural/estrutural_02_formatos_contacto_identidade.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F03",
+      "path": "figures/estrutural/estrutural_03_candidaturas_tempo.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F04",
+      "path": "figures/qualidade/qualidade_01_variantes_estado.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F05",
+      "path": "figures/qualidade/qualidade_02_presenca_por_fonte.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F06",
+      "path": "figures/qualidade/qualidade_03_dob_parse.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F07",
+      "path": "figures/semantica/semantica_01_evidencia_linkage.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F08",
+      "path": "figures/semantica/semantica_02_candidatos_linkage.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F09",
+      "path": "figures/semantica/semantica_03_scores_screening.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F10",
+      "path": "figures/semantica/semantica_04_funil_cobertura.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F11",
+      "path": "figures/semantica/semantica_05_followup_resultado.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    },
+    {
+      "figure_id": "F12",
+      "path": "figures/semantica/semantica_06_prioridade_anomalias.png",
+      "qa_status": "pass",
+      "qa_warnings": ""
+    }
+  ],
+  "figure_count": 12,
+  "table_count": 27,
+  "output_dir": "outputs"
+}

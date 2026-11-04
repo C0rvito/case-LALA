@@ -1,0 +1,16 @@
+﻿animal_code,species,animal_name,adopters,statuses,rows,duplicate_code,swap_target,swap_source,notes
+CAT-0098,cat,Nala,Oscar S.,Placed,1,False,,,
+CAT-0102,cat,Bramble,Hannah R.,Not collected,1,False,,,"didn't come to collect, told us late"
+CAT-0141,cat,Pip,Chloe R.,Placed,1,False,,,
+CAT-0142,cat,Sparky,Tom I.,Placed,1,False,,,
+CAT-0150,cat,Salem,Mark S.,Placed,1,False,,,
+CAT-0155,cat,Mia,Hannah R.,Reserved,1,False,,,
+CAT-0157,cat,Tilly,Ivy C.,Placed,1,False,,,via partner shelter
+DOG-0379,dog,Bruno,Pam Q.,Placed,1,False,,,
+DOG-0387,dog,Thor,Sam A.,Returned,1,False,,,returned after 2 months
+DOG-0391,dog,Kira,Isla C.,Returned in trial,1,False,,,trial not passed
+DOG-0412,dog,Toby,Lucy F.,Placed,1,False,,,
+DOG-0415,dog,Luna,Claire H.,Reserved,1,False,,,
+DOG-0418,dog,Rocky,Joe M.,Animal swap,1,False,DOG-0421,,moves to DOG-0421
+DOG-0421,dog,Coco,Joe M.,Placed,1,False,,DOG-0418,from DOG-0418
+DOG-0424,dog,Lola,Danielle H.; Harry A.,Not collected; Waitlist,2,True,,,no answer gets Lola if not collected

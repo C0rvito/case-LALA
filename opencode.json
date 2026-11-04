@@ -1,0 +1,44 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "read": {
+      "*": "allow",
+      "**/dont-touch": "deny",
+      "**/dont-touch/**": "deny",
+      "dont-touch": "deny",
+      "dont-touch/**": "deny"
+    },
+    "edit": {
+      "*": "allow",
+      "**/dont-touch": "deny",
+      "**/dont-touch/**": "deny",
+      "dont-touch": "deny",
+      "dont-touch/**": "deny"
+    },
+    "glob": {
+      "*": "allow",
+      "**/dont-touch": "deny",
+      "**/dont-touch/**": "deny",
+      "dont-touch": "deny",
+      "dont-touch/**": "deny"
+    },
+    "grep": {
+      "*": "allow",
+      "**/dont-touch": "deny",
+      "**/dont-touch/**": "deny",
+      "dont-touch": "deny",
+      "dont-touch/**": "deny"
+    },
+    "list": {
+      "*": "allow",
+      "**/dont-touch": "deny",
+      "**/dont-touch/**": "deny",
+      "dont-touch": "deny",
+      "dont-touch/**": "deny"
+    },
+    "bash": {
+      "*": "allow",
+      "*dont-touch*": "deny"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+animal_code,species,animal_name,adopter,followup_phone,status,followup,animal_swap,updated,notes
+DOG-0379,dog,Bruno,Pam Q.,07580 785 577,Handed over,6m OK,No,1-Dec,
+CAT-0102,cat,Bramble,Hannah R.,07499 007 795,Not collected,,No,6-Oct,"didn't come to collect, told us late"
+DOG-0387,dog,Thor,Sam A.,07539 026 545,Returned,,No,28-Nov,returned after 2 months
+DOG-0391,dog,Kira,Isla C.,07965 209 642,Returned (trial),,No,27-Oct,trial not passed
+CAT-0098,cat,Nala,Oscar S.,07413 927 796,Handed over,6m OK,No,28-Nov,
+CAT-0141,cat,Pip,Chloe R.,0117 255 3111,Handed over,1m OK,No,20-Jul,
+CAT-0142,cat,Sparky,Tom I.,0117 255 3111,Handed over,1m OK,No,20-Jul,
+DOG-0412,dog,Toby,Lucy F.,07830 429 091,Handed over,1m OK,No,20-Jul,
+DOG-0415,dog,Luna,Claire H.,07868 682 164,Reserved,,No,6-Jul,
+DOG-0418,dog,Rocky,Joe M.,07979 434 990,Animal swap,,Yes,13-Jul,moves to DOG-0421
+CAT-0150,cat,Salem,Mark S.,07427 564 020,Handed over,1m OK,No,20-Jul,
+DOG-0424,dog,Lola,Danielle H.,07892 662 033,Not collected,,No,13-Jul,no answer
+CAT-0155,cat,Mia,Hannah R.,07499 007 795,Reserved,,No,6-Jul,
+DOG-0424,dog,Lola,Harry A.,07932 992 243,Waitlist,,No,13-Jul,gets Lola if not collected
+CAT-0157,cat,Tilly,Ivy C.,07934 638 502,Handed over,1m OK,No,20-Jul,via partner shelter
+DOG-0421,dog,Coco,Joe M.,07979 434 990,Handed over,,Yes,20-Jul,from DOG-0418

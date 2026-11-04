@@ -1,0 +1,19 @@
+﻿animal_code,animal_name,adopter_b,candidate_id,candidate_name,candidate_status,candidate_animal
+DOG-0387,Thor,Sam A.,1001,Lucy Fisher,Approved — reserved,Thor
+DOG-0387,Thor,Sam A.,1010,Hannah Reid,Reuse,Thor
+DOG-0387,Thor,Sam A.,1014,Danielle Hill,List B,Thor
+DOG-0387,Thor,Sam A.,1016,Mark Shaw,Visit,Thor
+DOG-0391,Kira,Isla C.,1002,Chloe Ryan,Approved — reserved,Luna or Kira
+DOG-0391,Kira,Isla C.,1020,Beth Morgan,List B,Luna or Kira
+DOG-0415,Luna,Claire H.,1002,Chloe Ryan,Approved — reserved,Luna or Kira
+DOG-0415,Luna,Claire H.,1020,Beth Morgan,List B,Luna or Kira
+DOG-0415,Luna,Claire H.,1025,Harry Ashworth,Waitlist,Luna
+DOG-0424,Lola,Danielle H.,1009,Julia Kemp,Approved,Lola
+DOG-0424,Lola,Danielle H.,1026,Lucy Ford,List B,Lola
+DOG-0424,Lola,Danielle H.,1027,Sam Allen,Unknown,Lola
+DOG-0424,Lola,Harry A.,1009,Julia Kemp,Approved,Lola
+DOG-0424,Lola,Harry A.,1026,Lucy Ford,List B,Lola
+DOG-0424,Lola,Harry A.,1027,Sam Allen,Unknown,Lola
+DOG-0421,Coco,Joe M.,1004,Claire Harrison,Approved,Coco
+DOG-0421,Coco,Joe M.,1015,Danielle Hughes,Approved,Coco
+DOG-0421,Coco,Joe M.,1021,Owen Pollard,Waitlist,Coco

@@ -1,0 +1,7 @@
+﻿stage,value,denominator,note
+Rows in Responses,26,26,Includes 2 test rows.
+Real applications,24,24,Excludes test rows.
+With status,23,24,1027 has no status.
+With scoring,16,24,16 applications scored.
+In final,13,24,"Includes 1012, absent from Responses."
+Approved in final,11,13,11 approved; 2 waitlisted.

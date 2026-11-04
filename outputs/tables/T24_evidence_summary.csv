@@ -1,0 +1,15 @@
+﻿adopter,phone_exact,name_match,animal_match,candidate_count
+Pam Q.,False,False,False,0
+Hannah R.,False,True,False,2
+Sam A.,False,True,True,6
+Isla C.,True,True,True,3
+Oscar S.,False,False,False,0
+Chloe R.,False,True,False,1
+Tom I.,False,True,False,1
+Lucy F.,False,True,False,2
+Claire H.,False,True,True,5
+Joe M.,True,True,True,4
+Mark S.,False,True,False,3
+Danielle H.,False,True,True,5
+Harry A.,False,True,True,4
+Ivy C.,False,False,False,0

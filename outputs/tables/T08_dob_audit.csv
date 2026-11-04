@@ -1,0 +1,27 @@
+﻿ID,raw_dob,expected_dd_mm,dob_clean,format,ambiguous,mismatch,note
+1000,01/01/2000,2000-01-01,2000-01-01,dd/mm/yyyy,True,False,
+1001,16/10/1990,1990-10-16,1990-10-16,dd/mm/yyyy,False,False,
+1002,22/09/1991,1991-09-22,1991-09-22,dd/mm/yyyy,False,False,
+1003,1981-09-10 00:00:00,1981-09-10,1981-09-10,timestamp,False,False,
+1004,14 June 1979,1979-06-14,1979-06-14,text (month name),False,False,
+1005,30997,1984-11-11,1984-11-11,Excel serial,False,False,
+1007,05/08/1983,1983-08-05,1983-05-08,dd/mm/yyyy,True,True,Parser swaps day/month
+1008,01/12/1994,1994-12-01,1994-01-12,dd/mm/yyyy,True,True,Parser swaps day/month
+1009,03/06/1969,1969-06-03,1969-03-06,dd/mm/yyyy,True,True,Parser swaps day/month
+1010,7-4-88,1988-04-07,1988-07-04,d-m-yy,True,True,Parser swaps day/month
+1011,21/04/1992,1992-04-21,1992-04-21,dd/mm/yyyy,False,False,
+1013,19/05/1996,1996-05-19,1996-05-19,dd/mm/yyyy,False,False,
+1014,9 September 1997,1997-09-09,1997-09-09,text (month name),False,False,
+1015,30/07/1999,1999-07-30,1999-07-30,dd/mm/yyyy,False,False,
+1016,10/02/1985,1985-02-10,1985-10-02,dd/mm/yyyy,True,True,Parser swaps day/month
+1017,19/03/2026,2026-03-19,2026-03-19,dd/mm/yyyy,False,False,
+1018,06/07/1989,1989-07-06,1989-06-07,dd/mm/yyyy,True,True,Parser swaps day/month
+1019,28/01/1972,1972-01-28,1972-01-28,dd/mm/yyyy,False,False,
+1020,12/03/1987,1987-03-12,1987-12-03,dd/mm/yyyy,True,True,Parser swaps day/month
+1021,02/10/1983,1983-10-02,1983-02-10,dd/mm/yyyy,True,True,Parser swaps day/month
+1022,1990-03-11 00:00:00,1990-03-11,1990-03-11,timestamp,False,False,
+1023,1985-10-02 00:00:00,1985-10-02,1985-10-02,timestamp,False,False,
+1024,8-6-95,1995-06-08,1995-08-06,d-m-yy,True,True,Parser swaps day/month
+1025,13/08/1982,1982-08-13,1982-08-13,dd/mm/yyyy,False,False,
+1026,1993-09-01,1993-09-01,1993-09-01,ISO (YYYY-MM-DD),False,False,
+1027,03/01/1991,1991-01-03,1991-03-01,dd/mm/yyyy,True,True,Parser swaps day/month

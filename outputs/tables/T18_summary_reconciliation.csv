@@ -1,0 +1,10 @@
+﻿metric,summary_formula,recomputed,difference,note
+Total requests,26,24,-2,"COUNTA counts 26 IDs, including 2 test rows; real = 24 applications (23 unique people; 1016/1023 are the same person)."
+Approved,9,10,1,Approved* counts 7 Approved + 2 reserved; misses 'Aproved'. Canonical = 10 applications.
+Waitlist,5,5,0,Matches after case/whitespace normalisation.
+List B,1,3,2,Formula only catches exact 'List B'; there are 3 variants.
+Rejected,3,3,0,Matches; includes 'Rejected - previous return'.
+Reuse,1,1,0,Matches.
+Home visit,1,16,15,Formula counts the 'visit' status; there are 16 visits with a score.
+Reserved,2,2,0,Matches 'Approved - reserved'.
+Sum,20,24,4,"Formula sums to 20; the real total has 24 applications (23 people), including 3 with no status."

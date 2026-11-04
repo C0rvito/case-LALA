@@ -1,0 +1,15 @@
+﻿source,key_type,key_value,count,detail,note
+Responses,Full name,Claire / Harrison,2,ID=1004 | Email=charrison50@example.com | Status=Approved; ID=1019 | Email=claireharrison@example.com | Status=Rejected,
+Responses,Full name,Mark / Shaw,2,ID=1016 | Email=markshaw@example.com | Status=visit; ID=1023 | Email=mark.shaw.o@example.org | Status=Approved,
+Responses,Normalized phone,,3,ID=1000 | First name=Test | Last name=Form | Phone=; ID=1011 | First name=Mark | Last name=Singh | Phone=#ERROR!; ID=1017 | First name=test | Last name=test | Phone=,
+Responses,Normalized phone,07900000000,2,ID=1004 | First name=Claire | Last name=Harrison | Phone=447900000000; ID=1025 | First name=Harry | Last name=Ashworth | Phone=447900000000,
+Responses,Normalized phone,07570468615,2,ID=1016 | First name=Mark | Last name=Shaw | Phone=07570 468615; ID=1023 | First name=Mark | Last name=Shaw | Phone=+44 7570468615,
+Responses,Adopter no./document,,3,ID=1000 | First name=Test | Last name=Form; ID=1011 | First name=Mark | Last name=Singh; ID=1017 | First name=test | Last name=test,"Field mixes adopter number, document and number."
+Responses,Adopter no./document,060064440,2,ID=1016 | First name=Mark | Last name=Shaw; ID=1023 | First name=Mark | Last name=Shaw,"Field mixes adopter number, document and number."
+Responses,Date of birth,1985-10-02 00:00:00,2,ID=1016 | First name=Mark | Last name=Shaw; ID=1023 | First name=Mark | Last name=Shaw,
+Follow-up,Animal code,DOG-0424,2,animal_code=DOG-0424 | adopter=Danielle H. | status=Not collected; animal_code=DOG-0424 | adopter=Harry A. | status=Waitlist,
+Follow-up,Adopter,Hannah R.,2,animal_code=CAT-0102 | adopter=Hannah R. | status=Not collected; animal_code=CAT-0155 | adopter=Hannah R. | status=Reserved,
+Follow-up,Adopter,Joe M.,2,animal_code=DOG-0418 | adopter=Joe M. | status=Animal swap; animal_code=DOG-0421 | adopter=Joe M. | status=Handed over,
+Follow-up,Normalized phone,07499007795,2,animal_code=CAT-0102 | adopter=Hannah R. | followup_phone=07499 007 795; animal_code=CAT-0155 | adopter=Hannah R. | followup_phone=07499 007 795,
+Follow-up,Normalized phone,01172553111,2,animal_code=CAT-0141 | adopter=Chloe R. | followup_phone=0117 255 3111; animal_code=CAT-0142 | adopter=Tom I. | followup_phone=0117 255 3111,
+Follow-up,Normalized phone,07979434990,2,animal_code=DOG-0418 | adopter=Joe M. | followup_phone=07979 434 990; animal_code=DOG-0421 | adopter=Joe M. | followup_phone=07979 434 990,

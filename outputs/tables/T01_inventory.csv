@@ -1,0 +1,7 @@
+﻿source,rows,columns,cells,missing_cells,missing_pct,duplicate_rows,formula_cells,note
+Responses,26,21,546,44,8.1,0,0,Two-row header; includes test rows.
+Scoring,16,10,160,72,45.0,0,60,
+Summary,18,2,36,20,55.6,2,13,Labels and formulas only; values are not cached.
+Sheet3,11,7,77,43,55.8,0,10,Draft sheet with dates and a list of IDs.
+final,13,5,65,3,4.6,0,0,
+Follow-up,16,10,160,17,10.6,0,0,CSV without application IDs; dates without a year.

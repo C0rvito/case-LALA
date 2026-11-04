@@ -1,0 +1,23 @@
+﻿source,raw_value,canonical,canonical_label,group,meaning
+Adoptions,Approved,approved,Approved,positive,Application approved; does not imply handover.
+Adoptions,Waitlist,waitlist,Waitlist,pending,On the waiting list.
+Adoptions,(blank),unknown,Unknown,unknown,No status recorded.
+Adoptions,Approved - reserved,approved_reserved,Approved — reserved,positive,Approved and animal reserved; handover not confirmed.
+Adoptions,Rejected,rejected,Rejected,negative,Rejected; the reason may be in the free text.
+Adoptions,Rejected - previous return,rejected,Rejected,negative,Rejected; the reason may be in the free text.
+Adoptions,Aproved,approved,Approved,positive,Application approved; does not imply handover.
+Adoptions,Reuse,reuse,Reuse,pending,Reuse of adopter or animal.
+Adoptions,list B ,list_b,List B,pending,List B / alternative.
+Adoptions,visit,visit,Visit,process,"Visit scheduled/completed; it is a stage, not an outcome."
+Adoptions,List B,list_b,List B,pending,List B / alternative.
+Adoptions,waitlist ,waitlist,Waitlist,pending,On the waiting list.
+Adoptions,List B (cats),list_b,List B,pending,List B / alternative.
+final,Approved,approved,Approved,final,Application approved; does not imply handover.
+final,Waitlist,waitlist,Waitlist,final,On the waiting list.
+Follow-up,Handed over,placed,Placed,follow-up,Animal handed over; 1- or 6-month follow-up.
+Follow-up,Not collected,not_collected,Not collected,follow-up,"Approved, but the adopter did not collect the animal."
+Follow-up,Reserved,reserved,Reserved,follow-up,Animal reserved; handover not confirmed.
+Follow-up,Returned,returned,Returned,follow-up,Animal returned.
+Follow-up,Returned (trial),returned_trial,Returned in trial,follow-up,Animal returned during the trial.
+Follow-up,Animal swap,swapped,Animal swap,follow-up,Animal swap; see the code chain.
+Follow-up,Waitlist,waitlist,Waitlist,follow-up,On the waiting list.

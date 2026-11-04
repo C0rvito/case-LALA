@@ -1,0 +1,31 @@
+﻿source,column,field_label,missing,missing_pct,non_null
+Responses,Town,Responses · Town,2,7.7,24
+Responses,Home,Responses · Home,2,7.7,24
+Responses,Animals,Responses · Animals,2,7.7,24
+Responses,Phone,Responses · Phone,2,7.7,24
+Responses,Name,Responses · Name,2,7.7,24
+Responses,Phone.1,Responses · Phone.1,2,7.7,24
+Responses,Email.1,Responses · Email.1,2,7.7,24
+Responses,How did you hear about us?,Responses · How did you hear about us?,2,7.7,24
+Responses,Adopter no. or passport/licence,Responses · Adopter no. or passport/licence,3,11.5,23
+Responses,Contact 2,Responses · Contact 2,3,11.5,23
+Responses,Animal,Responses · Animal,3,11.5,23
+Responses,Status,Responses · Status,3,11.5,23
+Responses,Reviewed,Responses · Reviewed,3,11.5,23
+Summary,col_1,Summary · col_1,3,16.7,15
+final,Email sent,final · Email sent,3,23.1,10
+Sheet3,col_5,Sheet3 · col_5,3,27.3,8
+Sheet3,col_6,Sheet3 · col_6,4,36.4,7
+Sheet3,col_7,Sheet3 · col_7,4,36.4,7
+Scoring,Comment,Scoring · Comment,8,50.0,8
+Follow-up,notes,Follow-up · notes,8,50.0,8
+Responses,Ref,Responses · Ref,13,50.0,13
+Follow-up,followup,Follow-up · followup,9,56.2,7
+Sheet3,col_3,Sheet3 · col_3,10,90.9,1
+Summary,col_2,Summary · col_2,17,94.4,1
+Sheet3,col_2,Sheet3 · col_2,11,100.0,0
+Sheet3,col_4,Sheet3 · col_4,11,100.0,0
+Scoring,First name,Scoring · First name,16,100.0,0
+Scoring,Last name,Scoring · Last name,16,100.0,0
+Scoring,Average,Scoring · Average,16,100.0,0
+Scoring,Rank,Scoring · Rank,16,100.0,0

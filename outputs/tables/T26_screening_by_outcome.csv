@@ -1,0 +1,4 @@
+﻿final_group,applications,call_mean,visit_mean,fit_mean,score_mean,application_ids
+Approved,9,3.44,3.44,3.78,3.56,"1001, 1002, 1004, 1005, 1007, 1008, 1010, 1013, 1015"
+Waitlist,2,4.0,3.5,4.5,4.0,"1022, 1024"
+Not in final,5,3.6,3.0,3.2,3.27,"1009, 1014, 1019, 1020, 1023"

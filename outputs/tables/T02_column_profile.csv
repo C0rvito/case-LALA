@@ -1,0 +1,56 @@
+﻿source,column,dtype,non_null,missing,missing_pct,unique,top_value,top_count,example
+Responses,Timestamp,datetime64[us],26,0,0.0,26,2026-03-02 08:51:00,1,2026-03-02 08:51:00
+Responses,ID,int64,26,0,0.0,26,1000,1,1000
+Responses,First name,str,26,0,0.0,19,Mark,3,Test
+Responses,Last name,str,26,0,0.0,23,Harrison,2,Form
+Responses,Email,str,26,0,0.0,26,adoptions@hearthway.example,1,adoptions@hearthway.example
+Responses,Date of birth,object,26,0,0.0,26,01/01/2000,1,01/01/2000
+Responses,dob_clean,datetime64[us],26,0,0.0,25,1985-10-02,2,2000-01-01 00:00:00
+Responses,Adopter no. or passport/licence,str,23,3,11.5,22,060064440,2,FISHE960160LD9JJ
+Responses,Town,str,24,2,7.7,21,Bristol,3,Bristol
+Responses,Home,str,24,2,7.7,16,flat,4,own flat
+Responses,Animals,str,24,2,7.7,12,no but my partner has a cat,3,no but my partner has a cat
+Responses,Phone,object,24,2,7.7,23,447900000000,2,+44 7874105657
+Responses,Contact 2,str,23,3,11.5,23,07973114300,1,07973114300
+Responses,Name,str,24,2,7.7,16,me,3,me
+Responses,Phone.1,str,24,2,7.7,21,07998068434,3,07874 105657
+Responses,Email.1,str,24,2,7.7,21,lettings@avon.example,3,lucy_fisher@example.org
+Responses,Animal,str,23,3,11.5,10,Thor,4,Thor
+Responses,How did you hear about us?,str,24,2,7.7,11,a volunteer,4,website
+Responses,Status,str,23,3,11.5,12,Approved,7,Approved - reserved
+Responses,Ref,str,13,13,50.0,13,C1022,1,C1022
+Responses,Reviewed,str,23,3,11.5,3,GC,9,MT
+Scoring,ID,int64,16,0,0.0,16,1001,1,1001
+Scoring,First name,float64,0,16,100.0,0,,0,
+Scoring,Last name,float64,0,16,100.0,0,,0,
+Scoring,Call,int64,16,0,0.0,4,4,7,4
+Scoring,Visit,object,16,0,0.0,5,3,8,4
+Scoring,Fit,int64,16,0,0.0,4,3,7,5
+Scoring,Average,float64,0,16,100.0,0,,0,
+Scoring,Rank,float64,0,16,100.0,0,,0,
+Scoring,Reviewer,str,16,0,0.0,3,MT,6,MT
+Scoring,Comment,str,8,8,50.0,5,great home visit,3,recommended by a volunteer
+Summary,col_1,str,15,3,16.7,15,Spring adoption day 2026,1,Spring adoption day 2026
+Summary,col_2,float64,1,17,94.4,1,14.0,1,14.0
+Sheet3,col_1,object,11,0,0.0,11,date,1,date
+Sheet3,col_2,float64,0,11,100.0,0,,0,
+Sheet3,col_3,str,1,10,90.9,1,text,1,text
+Sheet3,col_4,float64,0,11,100.0,0,,0,
+Sheet3,col_5,object,8,3,27.3,8,don't delete - M.,1,don't delete - M.
+Sheet3,col_6,str,7,4,36.4,7,Name,1,Name
+Sheet3,col_7,str,7,4,36.4,2,pending,6,Status
+final,ID,int64,13,0,0.0,13,1001,1,1001
+final,Full name,str,13,0,0.0,13,Lucy Fisher,1,Lucy Fisher
+final,Status,str,13,0,0.0,2,Approved,11,Approved
+final,Email sent,str,10,3,23.1,2,Yes,7,Yes
+final,Centre,str,13,0,0.0,1,Bristol,13,Bristol
+Follow-up,animal_code,str,16,0,0.0,15,DOG-0424,2,DOG-0379
+Follow-up,species,str,16,0,0.0,2,dog,9,dog
+Follow-up,animal_name,str,16,0,0.0,15,Lola,2,Bruno
+Follow-up,adopter,str,16,0,0.0,14,Hannah R.,2,Pam Q.
+Follow-up,followup_phone,str,16,0,0.0,13,07499 007 795,2,07580 785 577
+Follow-up,status,str,16,0,0.0,7,Handed over,8,Handed over
+Follow-up,followup,str,7,9,56.2,2,1m OK,5,6m OK
+Follow-up,animal_swap,str,16,0,0.0,2,No,14,No
+Follow-up,updated,str,16,0,0.0,7,20-Jul,6,1-Dec
+Follow-up,notes,str,8,8,50.0,8,"didn't come to collect, told us late",1,"didn't come to collect, told us late"

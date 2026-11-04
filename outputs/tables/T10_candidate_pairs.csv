@@ -1,0 +1,37 @@
+﻿adopter_b,adopter_key,candidate_id,candidate_name,candidate_status,candidate_status_canon,candidate_final_status,candidate_in_final,candidate_positive,candidate_person_key,candidate_canonical_id,candidate_person_ids,candidate_phone,candidate_animal,candidate_household_animals,score,confidence,evidence,phone_match,name_match,animal_match,rank
+Chloe R.,chloe r.,1002,Chloe Ryan,Approved — reserved,approved_reserved,approved,True,True,id:RYAN9959221CJ9DC,1002,1002,07863614877,Luna or Kira,none,40,weak,name + initial,False,True,False,1.0
+Claire H.,claire h.,1004,Claire Harrison,Approved,approved,approved,True,True,id:318614314,1004,1004,07900000000,Coco,animal unspecified,40,weak,name + initial,False,True,False,1.0
+Claire H.,claire h.,1019,Claire Harrison,Rejected,rejected,,False,False,id:HARRI751282CD9GK,1019,1019,07840620616,whichever fits best,unspecified,40,weak,name + initial,False,True,False,2.0
+Claire H.,claire h.,1002,Chloe Ryan,Approved — reserved,approved_reserved,approved,True,True,id:RYAN9959221CJ9DC,1002,1002,07863614877,Luna or Kira,none,10,weak,specific animal,False,False,True,3.0
+Claire H.,claire h.,1020,Beth Morgan,List B,list_b,,False,False,id:638035309,1020,1020,07836129730,Luna or Kira,dog,10,weak,specific animal,False,False,True,4.0
+Claire H.,claire h.,1025,Harry Ashworth,Waitlist,waitlist,,False,False,id:273658174,1025,1025,07900000000,Luna,unspecified,10,weak,specific animal,False,False,True,5.0
+Danielle H.,danielle h.,1014,Danielle Hill,List B,list_b,,False,False,id:286204165,1014,1014,07500000000,Thor,cat,40,weak,name + initial,False,True,False,1.0
+Danielle H.,danielle h.,1015,Danielle Hughes,Approved,approved,approved,True,True,id:911676337,1015,1015,07857757099,Coco,none,40,weak,name + initial,False,True,False,2.0
+Danielle H.,danielle h.,1009,Julia Kemp,Approved,approved,,False,True,id:307024790,1009,1009,07986964059,Lola,none,10,weak,specific animal,False,False,True,3.0
+Danielle H.,danielle h.,1026,Lucy Ford,List B,list_b,,False,False,id:225030057,1026,1026,07834884638,Lola,none,10,weak,specific animal,False,False,True,4.0
+Danielle H.,danielle h.,1027,Sam Allen,Unknown,unknown,,False,False,name:sam allen|phone:07431524818|dob:1991-01-03,1027,1027,07431524818,Lola,dog,10,weak,specific animal,False,False,True,5.0
+Hannah R.,hannah r.,1005,Hannah Rowe,Waitlist,waitlist,approved,True,True,id:437395685,1005,1005,07920345203,a small dog,cat,40,weak,name + initial,False,True,False,1.0
+Hannah R.,hannah r.,1010,Hannah Reid,Reuse,reuse,approved,True,True,id:HW25-212,1010,1010,07886322797,Thor,none,40,weak,name + initial,False,True,False,2.0
+Harry A.,harry a.,1025,Harry Ashworth,Waitlist,waitlist,,False,False,id:273658174,1025,1025,07900000000,Luna,unspecified,40,weak,name + initial,False,True,False,1.0
+Harry A.,harry a.,1009,Julia Kemp,Approved,approved,,False,True,id:307024790,1009,1009,07986964059,Lola,none,10,weak,specific animal,False,False,True,2.0
+Harry A.,harry a.,1026,Lucy Ford,List B,list_b,,False,False,id:225030057,1026,1026,07834884638,Lola,none,10,weak,specific animal,False,False,True,3.0
+Harry A.,harry a.,1027,Sam Allen,Unknown,unknown,,False,False,name:sam allen|phone:07431524818|dob:1991-01-03,1027,1027,07431524818,Lola,dog,10,weak,specific animal,False,False,True,4.0
+Isla C.,isla c.,1013,Isla Carter,Waitlist,waitlist,approved,True,True,id:635384256,1013,1013,07965209642,kittens,cat,95,strong,exact phone + name + initial,True,True,False,1.0
+Isla C.,isla c.,1002,Chloe Ryan,Approved — reserved,approved_reserved,approved,True,True,id:RYAN9959221CJ9DC,1002,1002,07863614877,Luna or Kira,none,10,weak,specific animal,False,False,True,2.0
+Isla C.,isla c.,1020,Beth Morgan,List B,list_b,,False,False,id:638035309,1020,1020,07836129730,Luna or Kira,dog,10,weak,specific animal,False,False,True,3.0
+Joe M.,joe m.,1007,Joe Morgan,Approved,approved,approved,True,True,id:704715389,1007,1007,07979434990,an adult cat,cat,95,strong,exact phone + name + initial,True,True,False,1.0
+Joe M.,joe m.,1004,Claire Harrison,Approved,approved,approved,True,True,id:318614314,1004,1004,07900000000,Coco,animal unspecified,10,weak,specific animal,False,False,True,2.0
+Joe M.,joe m.,1015,Danielle Hughes,Approved,approved,approved,True,True,id:911676337,1015,1015,07857757099,Coco,none,10,weak,specific animal,False,False,True,3.0
+Joe M.,joe m.,1021,Owen Pollard,Waitlist,waitlist,,False,False,id:81430756,1021,1021,07513215283,Coco,none,10,weak,specific animal,False,False,True,4.0
+Lucy F.,lucy f.,1001,Lucy Fisher,Approved — reserved,approved_reserved,approved,True,True,id:FISHE960160LD9JJ,1001,1001,07874105657,Thor,cat,40,weak,name + initial,False,True,False,1.0
+Lucy F.,lucy f.,1026,Lucy Ford,List B,list_b,,False,False,id:225030057,1026,1026,07834884638,Lola,none,40,weak,name + initial,False,True,False,2.0
+Mark S.,mark s.,1011,Mark Singh,Rejected,rejected,,False,False,row:1011,1011,1011,,the little dog from the Instagram post,cat,40,weak,name + initial,False,True,False,1.0
+Mark S.,mark s.,1016,Mark Shaw,Visit,visit,approved,True,True,id:060064440,1016,"1016, 1023",07570468615,Thor,dog,40,weak,name + initial,False,True,False,2.0
+Mark S.,mark s.,1023,Mark Shaw,Approved,approved,,False,True,id:060064440,1016,"1016, 1023",07570468615,whichever fits best,unspecified,40,weak,name + initial,False,True,False,3.0
+Sam A.,sam a.,1003,Sam Ahmed,Rejected,rejected,,False,False,id:839348054,1003,1003,07471021190,a small dog,cat,40,weak,name + initial,False,True,False,1.0
+Sam A.,sam a.,1027,Sam Allen,Unknown,unknown,,False,False,name:sam allen|phone:07431524818|dob:1991-01-03,1027,1027,07431524818,Lola,dog,40,weak,name + initial,False,True,False,2.0
+Sam A.,sam a.,1001,Lucy Fisher,Approved — reserved,approved_reserved,approved,True,True,id:FISHE960160LD9JJ,1001,1001,07874105657,Thor,cat,10,weak,specific animal,False,False,True,3.0
+Sam A.,sam a.,1010,Hannah Reid,Reuse,reuse,approved,True,True,id:HW25-212,1010,1010,07886322797,Thor,none,10,weak,specific animal,False,False,True,4.0
+Sam A.,sam a.,1014,Danielle Hill,List B,list_b,,False,False,id:286204165,1014,1014,07500000000,Thor,cat,10,weak,specific animal,False,False,True,5.0
+Sam A.,sam a.,1016,Mark Shaw,Visit,visit,approved,True,True,id:060064440,1016,"1016, 1023",07570468615,Thor,dog,10,weak,specific animal,False,False,True,6.0
+Tom I.,tom i.,1022,Tom Iqbal,Approved,approved,waitlist,True,True,id:751913338,1022,1022,07822467915,the little dog from the Instagram post,dog,40,weak,name + initial,False,True,False,1.0

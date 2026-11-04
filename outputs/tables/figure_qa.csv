@@ -1,0 +1,13 @@
+figure_id,filename,status,warnings,warning_detail,width_px,height_px,dpi
+F01,estrutural_01_completude_campos,pass,0,,2327,2023,200
+F02,estrutural_02_formatos_contacto_identidade,pass,0,,2579,1721,200
+F03,estrutural_03_candidaturas_tempo,pass,0,,2370,1215,200
+F04,qualidade_01_variantes_estado,pass,0,,2401,1336,200
+F05,qualidade_02_presenca_por_fonte,pass,0,,1910,1972,200
+F06,qualidade_03_dob_parse,pass,0,,2463,1215,200
+F07,semantica_01_evidencia_linkage,pass,0,,1977,1375,200
+F08,semantica_02_candidatos_linkage,pass,0,,2310,1667,200
+F09,semantica_03_scores_screening,pass,0,,2617,1674,200
+F10,semantica_04_funil_cobertura,pass,0,,2233,1001,200
+F11,semantica_05_followup_resultado,pass,0,,2137,1048,200
+F12,semantica_06_prioridade_anomalias,pass,0,,2263,1456,200
